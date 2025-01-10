@@ -33,11 +33,11 @@ npm run dev
 
 ## 🔗 Screenshots
 
-![Homepage Screenshot](Screenshot (104).png)
-![Homepage Screenshot](Screenshot (105).png)
-![Homepage Screenshot](Screenshot (106).png)
-![Homepage Screenshot](Screenshot (107).png)
-![Homepage Screenshot](Screenshot (108).png)
+![Homepage Screenshot](./Screenshot (104).png)
+![Homepage Screenshot](./Screenshot (105).png)
+![Homepage Screenshot](./Screenshot (106).png)
+![Homepage Screenshot](./Screenshot (107).png)
+![Homepage Screenshot](./Screenshot (108).png)
 
 ```
 
